@@ -1,1 +1,4 @@
-Halo ini adalah fitur profile by acuy
+# Fitur Profile
+Deskripsi: fitur ini digunakan untuk menampilkan profil pengguna
+Developer: Acuy
+Tanggal: 2025-11-04
